@@ -1,0 +1,27 @@
+_repo: The--Ladies-of-Llangollen---13-of-Interest-in--That-Sweetest-of-Vales-_20810
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hicklin, John
+    gutenberg_agent_id: '9534'
+    url: http://www.gutenberg.org/2009/agents/9534
+description: ''
+gutenberg_issued: '2007-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Butler, Eleanor, Lady, 1738 or 9-1829'
+- !lcsh 'Ponsonby, Sarah, 1754 or 5-1831'
+- !lcc 'CT'
+- !lcsh 'Llangollen (Wales)'
+title: "The \"Ladies of Llangollen\"\r\nas Sketched by Many Hands; with Notices of\
+  \ Other Objects of Interest in \"That Sweetest of Vales\""
+url: http://www.gutenberg.org/ebooks/20810
