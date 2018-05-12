@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9534'
     url: http://www.gutenberg.org/2009/agents/9534
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20810#The--Ladies-of-Llangollen---13-of-Interest-in--That-Sweetest-of-Vales-
 gutenberg_issued: '2007-03-13'
 gutenberg_type: Text
 identifiers:
